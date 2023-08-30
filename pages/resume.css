@@ -5,3 +5,77 @@ body {
     padding: 0%;
     
 }
+
+
+.navbar, .navbar > li {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-left: 5vw;
+}
+
+.navbar {
+    margin: 0%;
+    padding-left: 5vw;
+    margin-right: 3vw;
+    padding-top: 4vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vh;
+    font-weight: 900;
+    background-color: linear-gradient(to right, rgb(182, 244, 146), rgb(11, 137, 149));
+    text-decoration: none;
+    color: rgba(198, 66, 10, 0.772);
+    border-width: 5px;
+    height: 10vh;
+    width: auto;
+}
+
+a, .logoJose > li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.logoJose > li {
+    color: azure;
+    margin-left: 0%;
+    padding-right: 5%;
+    
+}
+
+.navbar a {
+    color: azure;
+    border-width: 5px;
+    border-color: red;
+}
+
+#profileImage {
+    max-width: 25vw;
+    max-height: 35vh;
+    background-color: rgb(69, 111, 71);
+    border-radius: 100%;
+    margin-top: 10vh;
+    margin-left: 30vw;
+    margin-right: 0;
+    padding-right: 18vw;
+}
+
+.bodyContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: rgb(69, 111, 71);
+    border-width: 100;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vh;
+    font-weight: 900;
+}
+
+#bodyRO {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+    
+
+
