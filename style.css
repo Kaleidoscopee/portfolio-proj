@@ -30,8 +30,16 @@ body {
     width: auto;
 }
 
-a {
+a, .logoJose > li {
     text-decoration: none;
+    list-style: none;
+}
+
+.logoJose > li {
+    color: azure;
+    margin-left: 0%;
+    padding-right: 5%;
+    
 }
 
 .navbar a {
