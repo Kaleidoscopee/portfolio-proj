@@ -12,19 +12,29 @@ body {
     flex-direction: row;
     justify-content: flex-end;
     padding-left: 5vw;
+    color: white;
+    border-width: 5px;
+    border-color: red;
 }
 
 .navbar {
     margin: 0%;
-    padding-left: 5%;
+    padding-left: 5vw;
+    margin-right: 3vw;
     padding-top: 3%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
-    background-color: rgb(253, 253, 255);
+    background-color: rgb(11, 137, 149);
     text-decoration: none;
+    color: rgba(198, 66, 10, 0.772);
+    border-width: 5px;
 
     
     height: 10vh;
     width: auto;
+}
+
+a {
+    text-decoration: none;
 }
 
