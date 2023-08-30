@@ -77,5 +77,25 @@ a, .logoJose > li {
     justify-content: space-around;
 }
     
+/* New CSS for about page*/
+/* all mid-screen content */
+#aboutContentFull {
+    color: azure;
+    margin: 7.5vw;
+    padding: 4vh;
+    border-radius: 30px;
+    background-color: rgb(255, 151, 151)
+}
 
+/*just the paragraph */
+#resumePDF {
+    margin-left: 3vw;
+    font-size: x-large;
+}
+/*just the Hello */
+#aboutHeader {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
 

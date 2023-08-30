@@ -77,5 +77,22 @@ a, .logoJose > li {
     justify-content: space-around;
 }
     
+#helloRO {
+    margin-top: 10vh;
+    margin-left: 10vw;
 
+}
+
+#reachOut {
+    font-size: x-large;
+    font-family: sans-serif;
+    color: rgb(24, 95, 56);
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 3vw;
+    height: 5vh;
+    padding-left: 30px;
+    padding-right: 30px;
+}
 

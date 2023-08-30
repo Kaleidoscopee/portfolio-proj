@@ -78,4 +78,24 @@ a, .logoJose > li {
 }
     
 
+/* New CSS for about page*/
+/* all mid-screen content */
+#aboutContentFull {
+    color: azure;
+    margin: 7.5vw;
+    padding: 4vh;
+    border-radius: 30px;
+    background-color: rgb(255, 151, 151)
+}
+
+/*just the paragraph */
+#aboutParagraph {
+    margin-left: 3vw;
+    font-size: x-large;
+}
+/*just the Hello */
+#aboutHeader {
+    font-size: xx-large;
+}
+
 
